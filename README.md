@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Nguyen Van Hoang Long
+* ID: BI7-098
+* Group ID: Nguyen Van Hoang Long, Nguyen Bao Lam, Nguyen Duc Quyen, Pham Minh Duc
+* Project Name: Flickr Image Browser
